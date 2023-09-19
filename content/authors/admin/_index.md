@@ -1,6 +1,5 @@
 ---
-title: Artem Riabinin
-role: MS student
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -47,7 +46,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: MS student
 highlight_name: true
+title: Artem Riabinin
 first_name: Alice
 email: ""
 ---
