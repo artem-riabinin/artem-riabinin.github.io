@@ -23,7 +23,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
-    icon_pack: fab
+    icon_pack: far
     link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
