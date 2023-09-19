@@ -1,6 +1,6 @@
 ---
 title: Artem Riabinin
-role: Professor of Artificial Intelligence
+role: MS student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
