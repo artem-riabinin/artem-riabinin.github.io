@@ -34,7 +34,7 @@ organizations:
     url: https://www.kaust.edu.sa/en
 education:
   courses:
-    - course: MEng in Applied Mathematics and Computer Science
+    - course: MSc in Applied Mathematics and Computer Science
       institution: King Abdullah University of Science and Technology
       year: ""
     - course: BSc in Physics, Applied Mathematics
