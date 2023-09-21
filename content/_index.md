@@ -28,8 +28,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Federated Learning
+          tag: Federated Learning
         - name: Other
           tag: Demo
     design:
