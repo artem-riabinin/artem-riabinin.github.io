@@ -28,7 +28,7 @@ social:
     link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 organizations:
   - name: KAUST
     url: https://www.kaust.edu.sa/en
