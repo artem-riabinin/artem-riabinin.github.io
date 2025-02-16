@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://istina.msu.ru/profile/Riabinin_Artem/
+    link: [https://istina.msu.ru/profile/Riabinin_Artem/](https://scholar.google.com/citations?user=KFyFAPIAAAAJ&hl=en)
   - icon: github
     icon_pack: fab
     link: https://github.com/artem-riabinin
