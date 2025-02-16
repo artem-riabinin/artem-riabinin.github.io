@@ -38,7 +38,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: MS student
+role: PhD student
 highlight_name: true
 title: Artem Riabinin
 first_name: Alice
